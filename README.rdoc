@@ -2,7 +2,11 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
+<<<<<<< HEAD
 development 2
+=======
+fast-plateau-2278.herokuapp.com
+>>>>>>> master
 
 Things you may want to cover:
 
